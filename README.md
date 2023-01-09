@@ -17,8 +17,13 @@
 ![image](https://user-images.githubusercontent.com/76225409/211180437-e0d53b8f-a150-4e5f-bcfa-e663debfa8da.png)
 Load-balacer
 ![image](https://user-images.githubusercontent.com/76225409/211180462-5880d7bd-1199-40c4-b08c-2c7b3f083558.png)
-accesing load balancer endpint 
-![image](https://user-images.githubusercontent.com/76225409/211180486-5fb042f2-5192-4031-82f5-b74c0a0bb02b.png)
+
+![image](https://user-images.githubusercontent.com/76225409/211293231-399f64fa-e723-462d-97bb-5169b34f4b09.png)
+
+![image](https://user-images.githubusercontent.com/76225409/211293409-8511a34d-14fd-42ef-b874-880c2a3cde51.png)
+
+![image](https://user-images.githubusercontent.com/76225409/211293445-861a273b-fe83-4193-b0a6-62746658a3c8.png)
+
 
 
 
